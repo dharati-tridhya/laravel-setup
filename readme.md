@@ -6,10 +6,9 @@
 
 git clone https://github.com/dharati-tridhya/laravel-setup.git
 
-<b> Step2: </b> Do composer install or update
+<b> Step2: </b> Do composer install 
 
-composer install or
-composer update
+composer install
 
 <b> Step3: </b> setup .env file
 
