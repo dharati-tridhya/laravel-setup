@@ -2,16 +2,16 @@
 
 ## Fresh setup for laravel
 
-<b> Step1: </b> You can clone or download
+<b> Step 1: </b> You can clone or download
 
 git clone https://github.com/dharati-tridhya/laravel-setup.git
 
-<b> Step2: </b> Do composer install 
+<b> Step 2: </b> Do composer install 
 
 composer install
 
-<b> Step3: </b> setup .env file
+<b> Step 3: </b> setup .env file
 
-<b> Step4: </b> Remove this git repo from folder
+<b> Step 4: </b> Remove this git repo from folder
 
 del .git
