@@ -1,12 +1,18 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
 ## Fresh setup for laravel
 
+<b> Step1: </b> You can clone or download
 
+git clone https://github.com/dharati-tridhya/laravel-setup.git
+
+<b> Step2: </b> Do composer install or update
+
+composer install or
+composer update
+
+<b> Step3: </b> setup .env file
+
+<b> Step4: </b> Remove this git repo from folder
+
+del .git
